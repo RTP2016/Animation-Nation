@@ -1438,7 +1438,7 @@ let cards = [
 		author: 'szulima',
 		githubLink: 'https://github.com/szulima'
 	},
-		
+
     {
     	artName: "Traffic Lights",
       	pageLink: "./Art/Harry/index.html",
@@ -1459,8 +1459,19 @@ let cards = [
 	imageLink: "./Art/Alara Joel/stealth ghost.png",
 	author: "Alara Joel",
 	githubLink: "https://github.com/stealthman22"
-}
+	},
+
+    {
+      artName: "Surfing the web",
+      pageLink: "./Art/rtp2016/index.html",
+      imageLink: "./Art/rtp2016/internet.gif",
+      author: "rtp2016",
+      githubLink: "https://github.com/rtp2016"
+    }
 ];
+];
+
+
 
 // +--------------------------------------------------------------------------------+
 // +                                                                                +
